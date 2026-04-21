@@ -1,0 +1,12 @@
+{
+  "name": "liquid-level-detection",
+  "version": "0.0.1",
+  "description": "Microbit extension for Modbus liquid level sensor",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "liquid-level.ts"
+  ],
+  "public": true
+}
